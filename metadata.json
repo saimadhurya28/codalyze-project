@@ -1,0 +1,5 @@
+{
+  "name": "Codalyze",
+  "description": "An AI-powered Chrome Extension to explain, execute, and debug code snippets from any programming language. Get instant insights, predicted outputs, and error fixes.",
+  "requestFramePermissions": []
+}
