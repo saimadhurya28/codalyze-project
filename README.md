@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="Screenshot 2025-09-20 184842" src="https://github.com/user-attachments/assets/345729ac-efda-48e5-9bb9-b8d45307913b" />Codalyze
 🚀 Codalyze is an AI-powered coding assistant that helps you generate, run, debug, and explain code instantly. With a sleek interface and real-time code execution, Codalyze makes coding more interactive, intuitive, and productive.
 
 📸 Project Demo
