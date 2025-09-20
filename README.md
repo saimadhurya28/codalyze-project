@@ -6,13 +6,20 @@
 
 <img width="1920" height="1080" alt="Screenshot 2025-09-20 184842" src="https://github.com/user-attachments/assets/27a49c2a-c8ae-4b46-af84-0a43da35c9cb" />
 
+
+
 🔹 Code Generation & Output
+
 
 <img width="1920" height="1080" alt="Screenshot 2025-09-20 184438" src="https://github.com/user-attachments/assets/88b67cb6-6dd0-4016-ad41-a0cd5840dc17" />
 
+
 <img width="1920" height="1080" alt="Screenshot 2025-09-20 184523" src="https://github.com/user-attachments/assets/d50640b2-1e90-4a1e-b632-36ec6ca3306c" />
 
+
 <img width="1920" height="1080" alt="Screenshot 2025-09-20 184600" src="https://github.com/user-attachments/assets/ff47538e-6bd2-46b2-9a55-28a3305a0947" />
+
+
 
 ✨ Features
 
@@ -44,7 +51,7 @@ Debugging & Visualization Modules
 
 📂 Project Structure Codalyze/ │── src/ │ ├── components/ # Reusable UI components │ ├── pages/ # Login, Signup, Dashboard │ ├── utils/ # Helper functions │ ├── App.jsx # Main app entry │ └── main.jsx # React DOM render │ │── public/ # Static assets │── package.json │── vite.config.js │── README.md
 
-🚀 Getting Started 1️⃣ Clone the repository git clone https://github.com/saimadhurya28/codalyze.git cd codalyze
+🚀 Getting Started 1️⃣ Clone the repository git clone https://github.com/saimadhurya28 cd codalyze
 
 2️⃣ Install dependencies npm install
 
