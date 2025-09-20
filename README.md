@@ -44,7 +44,7 @@ Debugging & Visualization Modules
 
 📂 Project Structure Codalyze/ │── src/ │ ├── components/ # Reusable UI components │ ├── pages/ # Login, Signup, Dashboard │ ├── utils/ # Helper functions │ ├── App.jsx # Main app entry │ └── main.jsx # React DOM render │ │── public/ # Static assets │── package.json │── vite.config.js │── README.md
 
-🚀 Getting Started 1️⃣ Clone the repository git clone https://github.com/Sk-Sharief/codalyze.git cd codalyze
+🚀 Getting Started 1️⃣ Clone the repository git clone https://github.com/saimadhurya28/codalyze.git cd codalyze
 
 2️⃣ Install dependencies npm install
 
